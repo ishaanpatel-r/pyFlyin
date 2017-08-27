@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#363649</color>
+    <color name="colorPrimaryDark">#6e6e92</color>
+    <color name="colorAccent">#807FA3</color>
+    <color name="textColor">#e7e7e7</color>
+    <color name="light_bg">#202020</color>
+    <color name="syntax_number">#f99157</color>
+    <color name="syntax_keyword">#7E57C2</color>
+    <color name="syntax_variable">#ef5350</color>
+    <color name="syntax_builtin">#66cccc</color>
+    <color name="syntax_comment">#a7adba</color>
+
+</resources>
